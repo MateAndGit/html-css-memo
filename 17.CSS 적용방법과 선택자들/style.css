@@ -1,0 +1,20 @@
+* {
+  font-weight: bold;
+  color: darkorange;
+}
+
+* {
+  color: pink;
+}
+
+p {
+  color: olivedrab;
+}
+
+.blue {
+  color: blue;
+}
+
+p.blue {
+  color: black;
+}
