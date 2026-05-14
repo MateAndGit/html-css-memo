@@ -1,0 +1,14 @@
+p {
+  font-style: oblique;
+  font-weight: 600;
+  text-decoration: overline blue 5px;
+  text-transform: capitalize;
+}
+
+html {
+  font-size: 14px;
+}
+
+div {
+  font-size: 200%;
+}
